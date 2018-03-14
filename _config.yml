@@ -1,9 +1,9 @@
 # Site settings
 title: 胡说
-SEOTitle: 胡说 | Binology
+SEOTitle: 胡说 | Binpedia
 header-img: img/post-bg-desk.jpg
 email: kang4600@gmail.com
-description: "Every failure is leading towards success."
+description: "生活不止眼前的苟且，还有诗和远方"
 keyword: "胡说, Binology, SiSee, Investment, Cryptocurrency, Credit Card, Tech, Travel, Food"
 url: "http://binology.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
