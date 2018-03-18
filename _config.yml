@@ -95,5 +95,9 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    }{
+        title: "Jiadi",
+        href: "http://jdhomer.github.io"
     }
+
 ]
