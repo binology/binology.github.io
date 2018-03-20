@@ -184,8 +184,10 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+                            <li>
+                            <a href="{{ site.url }}/feed.xml">RSS</a>
+                            </li>
                         </ul>
-                        <a href="{{ site.url }}/feed.xml">RSS订阅</a>
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
