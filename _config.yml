@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: admin@binpedia.com
 description: ""
 keyword: "胡说, Binpedia, Investment, Cryptocurrency, Credit Card, Gardening, Tech, Travel, Running, Food"
-url: "http://binology.github.io"          # your host, for absolute URL
+url: "http://binpedia.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
