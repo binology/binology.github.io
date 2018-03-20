@@ -17,7 +17,8 @@ sidebar-avatar: /img/32036D058.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-rss: true
+RSS: true
+email: "admin@binpedia.com"
 weibo_username:     hbkang狗年旺旺旺
 github_username:    binology
 facebook_username:  bin.hu.1029
