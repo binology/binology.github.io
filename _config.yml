@@ -14,7 +14,8 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一个不务正业的化学PhD"
 sidebar-avatar: /img/32036D058.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# search
+search: true
 
 # SNS settings
 rss: true
