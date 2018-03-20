@@ -17,13 +17,14 @@ sidebar-avatar: /img/32036D058.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     hbkang狗年旺旺旺
 github_username:    binology
 facebook_username:  bin.hu.1029
 twitter_username:   kang4600
 
-
+plugins:
+    -jekyll-feed
 
 
 # Build settings
