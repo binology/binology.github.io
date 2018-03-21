@@ -3,7 +3,6 @@ title: Search
 layout: page
 description: Let's find where the posts are.
 header-img: "img/search-bg.jpg"
-order: 3
 ---
 
 搜索**Binpedia.com**以往博客？
