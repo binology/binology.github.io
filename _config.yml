@@ -14,8 +14,6 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一个不务正业的化学PhD"
 sidebar-avatar: /img/32036D058.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-# search
-search: true
 
 # SNS settings
 rss: true
@@ -24,6 +22,10 @@ weibo_username:     hbkang狗年旺旺旺
 github_username:    binology
 facebook_username:  bin.hu.1029
 twitter_username:   kang4600
+
+# post share SNS settings
+social-share: true
+social-share-items: ['wechat', 'weibo', 'twitter']
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
