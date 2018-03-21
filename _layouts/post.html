@@ -97,8 +97,7 @@ layout: default
                 sites: [
                         {% for i in site.social-share-items %}
                         '{{ i }}'
-                        {% if forloop.last == false %},
-                        {% endif %}
+                      
                         {% endfor %}
                         ],
                 wechatQrcodeTitle: "分享到微信朋友圈",
