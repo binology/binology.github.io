@@ -1,12 +1,14 @@
 ---
-title: Search🔍
+title: Search
 layout: page
-description: Let's find where the posts are.
-header-img: "img/tag-bg.jpg"
+description: Using the amazing Google.
+header-img: "img/search-bg.jpg"
 order: 3
 ---
 
+搜索**Binpedia.com**以往博客？
 
+谷歌一下，你就知道👇👇👇
 
 <script>
     (function() {
@@ -20,5 +22,6 @@ order: 3
      })();
     </script>
 <gcse:search></gcse:search>
-    
+
+多谢大家的支持！🙏🙏🙏
 <div id="amzn-assoc-ad-e54c3650-ce04-48bf-8273-42419a6beb26"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=e54c3650-ce04-48bf-8273-42419a6beb26"></script>
