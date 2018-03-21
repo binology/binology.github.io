@@ -1089,3 +1089,13 @@ img::-moz-selection {
 .page-fullscreen footer .copyright a:hover {
   color: #ddd;
 }
+
+.social-share-wrapper {
+    margin: 0 auto; }
+.social-share-wrapper {
+    float: left;
+    position: relative;
+    left: 50%; }
+.social-share-wrapper .social-share {
+    position: relative;
+    left: -50%; }

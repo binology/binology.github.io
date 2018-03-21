@@ -23,7 +23,7 @@ github_username:    binology
 facebook_username:  bin.hu.1029
 twitter_username:   kang4600
 
-# post share SNS settings
+# Share
 social-share: true
 social-share-items: ['wechat', 'weibo', 'twitter']
 
