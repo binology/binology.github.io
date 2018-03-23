@@ -2,7 +2,7 @@
 title: Donation
 layout: page
 description: Binpedia needs your support to grow.
-header-img: "img/donation-head.jpg" 
+header-img: "img/donation-head.png" 
 ---
 
 
@@ -10,11 +10,11 @@ header-img: "img/donation-head.jpg"
 
 **支付宝扫码 (Alipay)：**
 
-![](img/donation-alipay.png)
+![](![](https://ws3.sinaimg.cn/large/006tKfTcgy1fpnbbnoahrj305k05kdgl.jpg))
 
 **微信支付扫码 (Wechat Pay)：**
 
-![](img/donation-wechat.png)
+![](![](https://ws4.sinaimg.cn/large/006tKfTcgy1fpnbbmyizmj305k05k3zc.jpg))
 
 **Paypal链接:**
 
