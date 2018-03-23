@@ -1,6 +1,6 @@
 ---
+title: Search
 layout: page
-title: "Search"
 description: Let's find where the posts are.
 header-img: "img/search-bg.jpg" 
 ---
