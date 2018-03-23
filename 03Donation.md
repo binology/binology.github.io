@@ -10,11 +10,11 @@ header-img: "img/donation-head.png"
 
 **支付宝扫码 (Alipay)：**
 
-![](![](https://ws3.sinaimg.cn/large/006tKfTcgy1fpnbbnoahrj305k05kdgl.jpg))
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1fpnbbnoahrj305k05kdgl.jpg)
 
 **微信支付扫码 (Wechat Pay)：**
 
-![](![](https://ws4.sinaimg.cn/large/006tKfTcgy1fpnbbmyizmj305k05k3zc.jpg))
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1fpnbbmyizmj305k05k3zc.jpg)
 
 **Paypal链接:**
 
