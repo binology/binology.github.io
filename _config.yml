@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: admin@binpedia.com
 description: ""
 keyword: "胡说, Binpedia, Investment, Cryptocurrency, Credit Card, Gardening, Tech, Travel, Running, Food"
-url: "http://binpedia.com"          # your host, for absolute URL
+url: "https://binpedia.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/binology/binology.github.io" # you code repository
 
@@ -91,10 +91,13 @@ friends: [
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     },{
+        title: "Cloudflare",
+        href: "https://www.cloudflare.com/"
+    },{
         title: "SiSee|去草",
-        href: "http://sisee.binpedia.com/"
+        href: "https://sisee.binpedia.com/"
     },{
         title: "Jiadi",
-        href: "http://jdhomer.github.io"
+        href: "https://jdhomer.github.io"
     }
 ]
