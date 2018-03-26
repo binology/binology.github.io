@@ -63,7 +63,7 @@ livere_uid: MTAyMC8zNDkxMC8xMTQ0Nw==
 
 # Analytics settings
 # Baidu Analytics
-# (delete#) ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 8269f3bdaeac896ec5a0784122349b68
 
 # Google Analytics
 ga_track_id: 'UA-115917787-1'            # Format: UA-xxxxxx-xx
