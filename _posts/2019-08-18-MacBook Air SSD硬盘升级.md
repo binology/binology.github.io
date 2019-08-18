@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Macbook Air SSD硬盘升级（附蓝牙Wifi模块更换）
-subtitle:   128GB的乞丐版硬盘忍无可忍变无需再忍
+subtitle:   128GB的乞丐版硬盘忍无可忍就无需再忍
 date:       2019-08-18
 author:     BH
 header-img: img/home-bg-o.jpg
@@ -24,12 +24,12 @@ tags:       -Macbook
 有了转接头和M.2之后就可以更换SSD了。**首先大家记得先用Time Machine备份一下，因为新的M2是需要重装系统的，到时候只需要用Time Machine再把原来SSD的数据拷贝进去就好了。**备份好之后就可以开动啦！这里要注意的是打开Mac需要一种特别的[五角形螺丝刀](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=binpedia0a-20&keywords=macbook screwdriver&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=021fbaad6b2afba4b6276e4569d753ec)，然后SSD上面的螺丝是传统的[T5或T6](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=binpedia0a-20&keywords=T6 screwdriver&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=8cc05291cd01ae8b77f59b5063878353)（忘记是哪个了，反正是其中之一）这种六角形螺丝刀，大家购买的时候要注意。如果螺丝刀不对千万不要硬来，这样如果把螺丝刮花那就不容易再打开了。
 
 ![Macbook Air](https://s2.ax1x.com/2019/08/18/mleR8H.jpg)
-Air的背面一共有是个螺丝，其中靠近有字地方的那两个是长的，其余8个都是小的，大家拧出来以后就知道了。全部拧完以后在靠近字的那段，也就是白风口这里用手指撬一下就能打开后盖了。
+Air的背面一共有是10个螺丝，其中靠近有字地方的那两个是长的，其余8个都是小的，大家拧出来以后就知道了。全部拧完以后在靠近字的那段，也就是出风口这里用手指撬一下就能打开后盖了。
 
 打开后的情况是这样的，下面四个黑方块就是电池，大概占了打开2/3的体积。上面就是主板了，首先先把电源线给拔下来，然后把ssd上面的螺丝拧下来，自带的ssd就可以拔出来了。新买的M.2装上转接口以后插进去，拧上螺丝就可以了，就这么简单。
 ![mluJVP.jpg](https://s2.ax1x.com/2019/08/18/mluJVP.jpg)
 
-然后就是安装系统了，大家需要那一块不用的usb格式化了以后制作启动盘，制作方法可以放狗搜或看[苹果官网](https://support.apple.com/en-us/HT201372)，制作完成后按电源键启动。需要先在磁盘工具下把新的M。2格式化成APFS格式，然后选择重新安装macOS进行安装就好了，这里就不一一细讲了。安装完以后用Time Machine重新把你之前备份好的数据再还原过来就搞定啦。
+然后就是安装系统了，大家需要那一块不用的usb格式化了以后制作启动盘，制作方法可以放狗搜或看[苹果官网](https://support.apple.com/en-us/HT201372)，制作完成后按电源键启动。需要先在磁盘工具下把新的M.2格式化成APFS格式，然后选择重新安装macOS进行安装就好了，这里就不一一细讲了。安装完以后用Time Machine重新把你之前备份好的数据再还原过来就搞定啦。
 
 ![mlKhY8.png](https://s2.ax1x.com/2019/08/18/mlKhY8.png)
 
